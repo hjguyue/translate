@@ -1,0 +1,1695 @@
+/american_football/football_player	:	/people/person	/common/topic	/sports/pro_athlete	
+/american_football/super_bowl	:	/common/topic	
+/american_football/football_coach	:	/people/person	/common/topic	
+/american_football/football_team	:	/sports/sports_team	/common/topic	
+/american_football/football_division	:	/common/topic	/sports/sports_league	/business/employer	/organization/organization	
+/american_football/football_conference	:	/common/topic	/sports/sports_league	/organization/organization	/business/employer	
+/american_football/football_position	:	/common/topic	
+/american_football/football_coach_position	:	/common/topic	
+/american_football/football_game	:	/common/topic	/time/event	
+/american_football/scoreboard_quarter	:	/common/topic	
+/american_football/football_scoring_event	:	/common/topic	
+/american_football/nfl_game	:	/common/topic	/american_football/football_game	
+/amusement_parks/park	:	/common/topic	/location/location	/travel/tourist_attraction	
+/amusement_parks/ride	:	/common/topic	
+/amusement_parks/roller_coaster	:	/common/topic	/amusement_parks/ride	
+/amusement_parks/ride_designer	:	/common/topic	
+/amusement_parks/ride_manufacturer	:	/common/topic	/business/employer	/business/business_operation	/organization/organization	
+/amusement_parks/ride_theme	:	/common/topic	
+/amusement_parks/ride_type	:	/common/topic	
+/amusement_parks/roller_coaster_material	:	/common/topic	
+/amusement_parks/roller_coaster_train_configuration	:	/common/topic	
+/amusement_parks/roller_coaster_propulsion_system	:	/common/topic	
+/amusement_parks/amusement_park_area	:	/common/topic	
+/amusement_parks/disney_ride	:	/common/topic	/amusement_parks/ride	
+/amusement_parks/disney_ride_ticket	:	/common/topic	
+/architecture/skyscraper	:	/architecture/structure	/architecture/building	/common/topic	/projects/project_focus	/location/location	
+/architecture/house	:	/architecture/structure	/common/topic	/projects/project_focus	/location/location	/architecture/building	
+/architecture/architect	:	/people/person	/common/topic	
+/architecture/structure	:	/common/topic	/projects/project_focus	/location/location	
+/architecture/building	:	/architecture/structure	/common/topic	/projects/project_focus	/location/location	
+/architecture/architecture_firm	:	/common/topic	/business/employer	/business/business_operation	/organization/organization	
+/architecture/architectural_contractor	:	/common/topic	
+/architecture/architectural_structure_owner	:	/common/topic	
+/architecture/architecture_firm_partners	:	/common/topic	/people/person	
+/architecture/building_complex	:	/common/topic	
+/architecture/tower	:	/architecture/structure	/common/topic	/projects/project_focus	/location/location	
+/architecture/museum	:	/common/topic	/travel/tourist_attraction	
+/architecture/museum_director	:	/people/person	/common/topic	
+/architecture/engineer	:	/people/person	/common/topic	
+/architecture/structural_engineer	:	/architecture/engineer	/common/topic	/people/person	
+/architecture/civil_engineer	:	/architecture/engineer	/common/topic	/people/person	
+/architecture/engineering_firm	:	/common/topic	/business/employer	/business/business_operation	/organization/organization	
+/architecture/architectural_style	:	/common/topic	
+/architecture/unrealized_design	:	/common/topic	
+/architecture/building_function	:	/common/topic	
+/architecture/destruction_method	:	/common/topic	
+/architecture/landscape_architect	:	/common/topic	
+/architecture/landscape_project	:	/common/topic	/location/location	
+/architecture/type_of_museum	:	/common/topic	
+/architecture/lighthouse	:	/common/topic	/location/location	/architecture/structure	
+/architecture/lighthouse_construction_material	:	/common/topic	
+/architecture/light_characteristic	:	/common/topic	
+/architecture/tower_shape	:	/common/topic	
+/architecture/building_occupant	:	/common/topic	
+/architecture/venue	:	/common/topic	
+/astronomy/star	:	/astronomy/celestial_object	/common/topic	/astronomy/orbital_relationship	
+/astronomy/planet	:	/astronomy/celestial_object	/common/topic	/astronomy/orbital_relationship	
+/astronomy/asteroid	:	/common/topic	/astronomy/celestial_object	/astronomy/orbital_relationship	/astronomy/astronomical_discovery	
+/astronomy/spectral_type	:	/common/topic	
+/astronomy/constellation	:	/common/topic	
+/astronomy/astronomer	:	/common/topic	/people/person	
+/astronomy/asteroid_spectral_type	:	/common/topic	
+/astronomy/celestial_object	:	/common/topic	
+/astronomy/star_system	:	/common/topic	
+/astronomy/meteor_shower	:	/common/topic	
+/astronomy/nebula	:	/common/topic	/astronomy/celestial_object	
+/astronomy/galaxy	:	/common/topic	/astronomy/celestial_object	
+/astronomy/comet	:	/astronomy/celestial_object	/common/topic	/astronomy/orbital_relationship	/astronomy/astronomical_discovery	
+/astronomy/comet_group	:	/common/topic	
+/astronomy/meteorite	:	/common/topic	
+/astronomy/meteoric_composition	:	/common/topic	
+/astronomy/dwarf_planet	:	/common/topic	/astronomy/celestial_object	/astronomy/orbital_relationship	/astronomy/astronomical_discovery	
+/astronomy/trans_neptunian_object	:	/common/topic	/astronomy/celestial_object	/astronomy/orbital_relationship	
+/astronomy/trans_neptunian_region	:	/common/topic	
+/astronomy/astronomical_survey_project_organization	:	/common/topic	/organization/organization	
+/astronomy/astronomical_discovery_technique	:	/common/topic	
+/astronomy/astronomical_observatory	:	/common/topic	/projects/project_focus	
+/astronomy/astronomical_discovery_status	:	/common/topic	
+/astronomy/moon	:	/common/topic	/astronomy/celestial_object	/astronomy/orbital_relationship	/astronomy/astronomical_discovery	
+/astronomy/orbital_relationship	:	/common/topic	
+/astronomy/orbit_type	:	/common/topic	
+/astronomy/astronomical_discovery	:	/common/topic	
+/astronomy/meteorite_source	:	/common/topic	
+/astronomy/plutoid	:	/common/topic	/astronomy/celestial_object	/astronomy/dwarf_planet	/astronomy/orbital_relationship	/astronomy/astronomical_discovery	
+/astronomy/asteroid_group	:	/common/topic	
+/astronomy/asteroid_family	:	/common/topic	
+/astronomy/supernova	:	/common/topic	/astronomy/celestial_object	
+/astronomy/scattered_disc_object	:	/common/topic	
+/astronomy/extraterrestrial_location	:	/common/topic	
+/astronomy/type_of_planetographic_feature	:	/common/topic	
+/astronomy/celestial_object_with_coordinate_system	:	/common/topic	
+/astronomy/planetographic_coordinate_system	:	/common/topic	
+/astronomy/near_earth_object	:	/common/topic	/astronomy/celestial_object	
+/astronomy/near_earth_object_classification	:	/common/topic	
+/astronomy/star_system_body	:	/common/topic	/astronomy/celestial_object	
+/astronomy/celestial_object_category	:	/common/topic	
+/astronomy/telescope_type	:	/common/topic	
+/astronomy/telescope_principle_type	:	/common/topic	
+/astronomy/telescope	:	/common/topic	
+/astronomy/telescope_platform	:	/common/topic	
+/astronomy/asterism	:	/common/topic	
+/astronomy/galactic_group	:	/common/topic	/astronomy/celestial_object	
+/astronomy/galactic_cluster	:	/common/topic	/astronomy/celestial_object	
+/astronomy/galactic_super_cluster	:	/common/topic	/astronomy/celestial_object	
+/astronomy/galactic_filament	:	/common/topic	/astronomy/celestial_object	
+/astronomy/galactic_interaction_type	:	/common/topic	
+/astronomy/galactic_shape	:	/common/topic	
+/astronomy/galaxy_classification_code	:	/common/topic	
+/astronomy/red_shift	:	/common/topic	
+/astronomy/satellite_galaxy	:	/common/topic	/astronomy/galaxy	/astronomy/celestial_object	/astronomy/orbital_relationship	
+/astronomy/galactic_interaction_status	:	/common/topic	
+/atom/feed_item	:	/common/topic	
+/atom/feed_link	:	/common/topic	
+/atom/feed_person	:	/common/topic	
+/atom/feed_category	:	/common/topic	
+/atom/feed	:	/common/topic	
+/automotive/privately_owned_vehicle	:	/common/topic	
+/automotive/automotive_class	:	/common/topic	
+/automotive/body_style	:	/common/topic	
+/automotive/company	:	/business/employer	/common/topic	/business/business_operation	/organization/organization	
+/automotive/designer	:	/people/person	/common/topic	
+/automotive/driveline	:	/common/topic	
+/automotive/engine	:	/common/topic	
+/automotive/engine_type	:	/common/topic	
+/automotive/exterior_color	:	/common/topic	
+/automotive/generation	:	/common/topic	
+/automotive/make	:	/common/topic	
+/automotive/manufacturing_plant	:	/common/topic	/architecture/structure	/projects/project_focus	/location/location	
+/automotive/model	:	/common/topic	
+/automotive/model_year	:	/common/topic	
+/automotive/option	:	/common/topic	
+/automotive/option_package	:	/common/topic	
+/automotive/platform	:	/common/topic	
+/automotive/transmission	:	/common/topic	
+/automotive/transmission_type	:	/common/topic	
+/automotive/fuel_delivery_method	:	/common/topic	
+/automotive/fuel	:	/common/topic	
+/automotive/trim_level	:	/common/topic	
+/automotive/truck_trim_level	:	/common/topic	/automotive/trim_level	
+/aviation/aircraft_model	:	/common/topic	
+/aviation/aircraft_type	:	/common/topic	
+/aviation/aircraft_manufacturer	:	/common/topic	/business/business_operation	/organization/organization	
+/aviation/aircraft_designer	:	/common/topic	
+/aviation/airline	:	/common/topic	/aviation/aircraft_owner	/business/business_operation	/organization/organization	
+/aviation/airline_alliance	:	/common/topic	
+/aviation/airport	:	/common/topic	/location/location	
+/aviation/airport_type	:	/common/topic	
+/aviation/airport_operator	:	/common/topic	
+/aviation/airport_runway_surface	:	/common/topic	
+/aviation/airliner_accident	:	/common/topic	/event/disaster	/time/event	
+/aviation/accident_type	:	/common/topic	
+/aviation/iata_airline_designator	:	/common/topic	
+/aviation/icao_airline_designator	:	/common/topic	
+/aviation/aircraft_owner	:	/common/topic	
+/aviation/aircraft_line	:	/common/topic	
+/aviation/aircraft_engine_type	:	/common/topic	
+/aviation/aviation_waypoint	:	/common/topic	/location/location	
+/aviation/waypoint_type	:	/common/topic	
+/aviation/aircraft	:	/common/topic	/business/asset	
+/award/award_category	:	/common/topic	
+/award/award_nominated_work	:	/common/topic	
+/award/award_nominee	:	/common/topic	
+/award/award_presenting_organization	:	/common/topic	
+/award/award_winner	:	/common/topic	
+/award/award_winning_work	:	/common/topic	
+/award/award_judge	:	/common/topic	/people/person	
+/award/award	:	/common/topic	
+/award/award_discipline	:	/common/topic	
+/award/hall_of_fame	:	/common/topic	
+/award/hall_of_fame_discipline	:	/common/topic	
+/award/hall_of_fame_inductee	:	/common/topic	
+/award/hall_of_fame_induction_category	:	/common/topic	
+/award/ranked_list	:	/common/topic	
+/award/ranked_list_compiler	:	/common/topic	
+/award/ranked_item	:	/common/topic	
+/award/competition	:	/common/topic	/time/event	
+/award/competitor	:	/common/topic	
+/award/competition_type	:	/common/topic	
+/award/recurring_competition	:	/common/topic	/time/recurring_event	
+/award/long_list_nominee	:	/common/topic	
+/award/long_listed_work	:	/common/topic	
+/award/award_ceremony	:	/common/topic	/time/event	
+/baseball/baseball_manager	:	/common/topic	
+/baseball/baseball_team	:	/common/topic	/sports/sports_team	
+/baseball/baseball_player	:	/people/person	/common/topic	/sports/pro_athlete	
+/baseball/baseball_division	:	/common/topic	/sports/sports_league	/organization/organization	/business/employer	
+/baseball/baseball_league	:	/common/topic	/sports/sports_league	/business/employer	/organization/organization	
+/baseball/baseball_position	:	/common/topic	
+/baseball/baseball_coach	:	/common/topic	
+/baseball/baseball_coaching_position	:	/common/topic	
+/basketball/basketball_conference	:	/common/topic	/sports/sports_league	/business/employer	/organization/organization	
+/basketball/basketball_division	:	/common/topic	/sports/sports_league	/business/employer	/organization/organization	
+/basketball/basketball_player	:	/people/person	/common/topic	/sports/pro_athlete	
+/basketball/basketball_position	:	/common/topic	
+/basketball/basketball_team	:	/sports/sports_team	/common/topic	
+/basketball/basketball_coach	:	/people/person	/common/topic	
+/bicycles/bicycle_type	:	/common/topic	
+/bicycles/bicycle_model	:	/common/topic	/business/consumer_product	
+/bicycles/bicycle_manufacturer	:	/common/topic	/business/employer	/business/business_operation	/organization/organization	
+/biology/protein	:	/common/topic	
+/biology/chromosome	:	/common/topic	
+/biology/cytogenetic_band	:	/common/topic	
+/biology/gene	:	/common/topic	
+/biology/gene_group	:	/common/topic	
+/biology/gene_group_membership_evidence	:	/common/topic	
+/biology/gene_ontology_group	:	/common/topic	
+/biology/gene_ontology_group_membership_evidence_type	:	/common/topic	
+/biology/gene_ontology_group_type	:	/common/topic	
+/biology/genomic_locus	:	/common/topic	
+/biology/genome	:	/common/topic	
+/biology/genome_build	:	/common/topic	
+/biology/genome_curator	:	/common/topic	
+/biology/organism_classification_rank	:	/common/topic	
+/biology/organism_classification	:	/common/topic	
+/biology/organism	:	/common/topic	
+/biology/deceased_organism	:	/common/topic	/biology/organism	
+/biology/amino_acid	:	/common/topic	/chemistry/chemical_compound	
+/biology/animal	:	/common/topic	/biology/organism_classification	
+/biology/fossil_site	:	/common/topic	/location/location	
+/biology/fossil_specimen	:	/common/topic	
+/biology/domesticated_animal	:	/common/topic	
+/biology/pedigreed_animal	:	/common/topic	/biology/organism	
+/biology/animal_breed	:	/common/topic	
+/biology/breed_origin	:	/location/location	/common/topic	
+/biology/breed_registry	:	/common/topic	
+/biology/owned_animal	:	/common/topic	/biology/organism	
+/biology/animal_owner	:	/common/topic	
+/biology/breed_group	:	/common/topic	
+/biology/plant_disease_cause	:	/common/topic	
+/biology/plant_disease_conditions	:	/common/topic	
+/biology/plant_disease	:	/common/topic	
+/biology/plant_disease_host	:	/common/topic	/biology/organism_classification	
+/biology/plant_disease_documentation	:	/common/topic	/book/written_work	
+/biology/hybrid	:	/common/topic	/biology/organism_classification	
+/biology/hybrid_parent_gender	:	/common/topic	
+/biology/hybrid_parent_classification	:	/common/topic	
+/biology/informal_biological_grouping	:	/common/topic	
+/biology/taxonomic_authority	:	/common/topic	
+/biology/organism_part	:	/common/topic	
+/biology/source_organism	:	/common/topic	/biology/organism_classification	
+/biology/taxon_with_sequenced_genome	:	/common/topic	/biology/organism_classification	
+/boats/motor	:	/common/topic	
+/boats/nuclear_powerplant	:	/common/topic	
+/boats/engine_fuel	:	/common/topic	
+/boats/ship_builder	:	/common/topic	
+/boats/ship_designer	:	/common/topic	
+/boats/boat_fate	:	/common/topic	
+/boats/hull_configuration	:	/common/topic	
+/boats/ship_class	:	/common/topic	
+/boats/ship	:	/common/topic	
+/boats/ship_type	:	/common/topic	
+/boats/means_of_propulsion	:	/common/topic	
+/boats/hull_material	:	/common/topic	
+/boats/ship_owner	:	/common/topic	
+/book/book	:	/common/topic	/book/written_work	
+/book/book_edition	:	/common/topic	/media_common/cataloged_instance	
+/book/book_binding	:	/common/topic	
+/book/audio_book_reader	:	/people/person	/common/topic	
+/book/book_subject	:	/common/topic	
+/book/publishing_company	:	/common/topic	
+/book/short_story	:	/book/published_work	/common/topic	/fictional_universe/work_of_fiction	/book/written_work	
+/book/poem	:	/book/published_work	/common/topic	/book/written_work	
+/book/poetic_meter	:	/common/topic	
+/book/poetic_verse_form	:	/common/topic	
+/book/book_character	:	/fictional_universe/fictional_character	/common/topic	
+/book/short_non_fiction	:	/book/published_work	/common/topic	/book/written_work	
+/book/short_non_fiction_variety	:	/common/topic	
+/book/technical_report	:	/common/topic	/book/written_work	/book/scholarly_work	
+/book/report_issuing_institution	:	/common/topic	
+/book/poem_character	:	/common/topic	/fictional_universe/fictional_character	
+/book/isbn	:	/common/topic	/type/namespace	
+/book/book_edition_series	:	/common/topic	
+/book/series_editor	:	/common/topic	/people/person	
+/sports/boxing_stance	:	/common/topic	
+/sports/boxing_weight_division	:	/common/topic	
+/sports/boxer	:	/common/topic	/people/person	/sports/pro_athlete	
+/boxing/boxing_match	:	/common/topic	/time/event	
+/boxing/boxing_sanctioning_body	:	/common/topic	/organization/organization	
+/boxing/boxing_title	:	/common/topic	
+/boxing/boxing_decision	:	/common/topic	
+/broadcast/tv_station	:	/common/topic	/broadcast/broadcast	
+/broadcast/tv_channel	:	/common/topic	/broadcast/broadcast	
+/broadcast/tv_station_owner	:	/common/topic	
+/broadcast/tv_signal_type	:	/common/topic	
+/broadcast/radio_station	:	/common/topic	/broadcast/broadcast	
+/broadcast/radio_format	:	/common/topic	
+/broadcast/radio_station_owner	:	/common/topic	
+/broadcast/broadcast_station_class	:	/common/topic	
+/broadcast/advisory	:	/common/topic	
+/broadcast/artist	:	/common/topic	
+/broadcast/broadcast	:	/common/topic	
+/broadcast/content	:	/common/topic	
+/broadcast/distributor	:	/common/topic	
+/broadcast/genre	:	/common/topic	
+/broadcast/internet_stream	:	/common/topic	/broadcast/broadcast	
+/broadcast/podcast_feed	:	/common/topic	/broadcast/broadcast	
+/broadcast/producer	:	/common/topic	
+/broadcast/radio_network	:	/common/topic	
+/broadcast/am_terrestrial_broadcast_facility	:	/broadcast/distributor	/common/topic	/location/location	
+/broadcast/fm_terrestrial_broadcast_facility	:	/broadcast/distributor	/common/topic	/location/location	
+/broadcast/tv_terrestrial_broadcast_facility	:	/broadcast/distributor	/common/topic	/location/location	
+/finance/currency	:	/common/topic	
+/business/industry	:	/common/topic	
+/finance/stock_exchange	:	/common/topic	
+/business/job_title	:	/common/topic	
+/business/employer	:	/common/topic	
+/venture_capital/venture_investor	:	/common/topic	
+/venture_capital/venture_funded_company	:	/business/employer	/common/topic	/business/business_operation	/organization/organization	
+/venture_capital/investment_round	:	/common/topic	
+/business/board_member_title	:	/common/topic	
+/business/oil_field	:	/common/topic	/location/location	/business/asset	
+/business/asset	:	/common/topic	
+/business/asset_owner	:	/common/topic	
+/business/consumer_product	:	/common/topic	
+/business/shopping_center	:	/common/topic	/location/location	
+/business/sponsor	:	/common/topic	
+/business/sponsored_recipient	:	/common/topic	
+/business/shopping_center_owner	:	/common/topic	/business/employer	/business/business_operation	/organization/organization	
+/finance/market_index	:	/common/topic	
+/business/product_endorser	:	/common/topic	
+/business/product_endorsee	:	/common/topic	
+/business/endorsed_product	:	/common/topic	/business/consumer_product	
+/business/brand	:	/common/topic	
+/business/product_line	:	/common/topic	
+/business/advertising_slogan	:	/common/topic	
+/business/product_theme	:	/common/topic	
+/business/product_with_ingredients	:	/common/topic	
+/business/product_ingredient	:	/common/topic	
+/business/issue	:	/common/topic	
+/business/shareholder	:	/common/topic	
+/business/business_operation	:	/common/topic	/organization/organization	
+/business/issuer	:	/common/topic	
+/business/issue_type	:	/common/topic	
+/business/competitive_space	:	/common/topic	
+/business/customer	:	/common/topic	
+/business/trade_union	:	/common/topic	/organization/organization	/business/employer	
+/business/consumer_company	:	/common/topic	/business/business_operation	/organization/organization	
+/business/product_category	:	/common/topic	
+/celebrities/celebrity	:	/common/topic	
+/celebrities/romantic_relationship_type	:	/common/topic	
+/celebrities/rehab_facility	:	/common/topic	
+/celebrities/abused_substance	:	/common/topic	
+/celebrities/reason_for_arrest	:	/common/topic	
+/celebrities/sexual_orientation	:	/common/topic	
+/celebrities/supercouple	:	/common/topic	
+/chemistry/chemical_compound	:	/common/topic	
+/chemistry/isotope	:	/common/topic	
+/chemistry/chemical_element	:	/common/topic	
+/chemistry/chemical_series	:	/common/topic	
+/chemistry/phase_of_matter	:	/common/topic	
+/chemistry/chemical_bond	:	/common/topic	
+/chemistry/periodic_table_block	:	/common/topic	
+/chemistry/radioactive_decay_mode	:	/common/topic	
+/chemistry/element_discoverer	:	/common/topic	
+/chemistry/particle_spin	:	/common/topic	
+/chemistry/chemical_classification	:	/common/topic	
+/chemistry/molecular_entity	:	/common/topic	
+/chemistry/solubility	:	/common/topic	
+/comic_strips/comic_strip_creator	:	/common/topic	
+/comic_strips/comic_strip_genre	:	/common/topic	/media_common/media_genre	
+/comic_strips/comic_strip_character	:	/fictional_universe/fictional_character	/common/topic	
+/comic_strips/comic_strip	:	/common/topic	
+/comic_strips/comic_strip_syndicate	:	/common/topic	
+/comic_books/comic_book_character	:	/common/topic	
+/comic_books/comic_book_colorist	:	/common/topic	
+/comic_books/comic_book_editor	:	/people/person	/common/topic	
+/comic_books/comic_book_fictional_universe	:	/common/topic	/fictional_universe/fictional_universe	
+/comic_books/comic_book_genre	:	/common/topic	/media_common/media_genre	
+/comic_books/comic_book_inker	:	/people/person	/common/topic	
+/comic_books/comic_book_issue	:	/common/topic	
+/comic_books/comic_book_letterer	:	/people/person	/common/topic	
+/comic_books/comic_book_penciler	:	/people/person	/common/topic	
+/comic_books/comic_book_publisher	:	/common/topic	
+/comic_books/comic_book_series	:	/common/topic	
+/comic_books/comic_book_story	:	/common/topic	/fictional_universe/work_of_fiction	
+/comic_books/comic_book_story_arc	:	/common/topic	
+/comic_books/comic_book_writer	:	/people/person	/common/topic	
+/comic_books/comic_book_creator	:	/people/person	/common/topic	
+/comic_strips/comic_strip_creator_role	:	/common/topic	
+/common/image	:	/common/topic	
+/common/license	:	/common/topic	
+/common/licensed_object	:	/common/topic	
+/common/media_rights_holder	:	/common/topic	
+/common/annotation_category	:	/common/topic	
+/common/annotation_index	:	/common/topic	
+/common/identity	:	/common/topic	
+/community/community_user	:	/common/topic	
+/community/discussion_thread	:	/common/topic	
+/computer/operating_system	:	/common/topic	
+/computer/operating_system_developer	:	/common/topic	
+/computer/computer_processor	:	/common/topic	
+/computer/processor_manufacturer	:	/common/topic	
+/computer/computer_manufacturer_brand	:	/common/topic	
+/computer/computer_product_line	:	/common/topic	
+/computer/computer	:	/common/topic	
+/computer/computer_designer	:	/common/topic	
+/computer/programming_language	:	/common/topic	
+/computer/programming_language_paradigm	:	/common/topic	
+/computer/programming_language_designer	:	/common/topic	
+/computer/programming_language_developer	:	/common/topic	
+/computer/software	:	/common/topic	
+/computer/software_developer	:	/common/topic	
+/computer/software_license	:	/common/topic	
+/computer/software_genre	:	/common/topic	
+/computer/content_license	:	/common/topic	
+/computer/computer_scientist	:	/common/topic	/people/person	
+/computer/protocol_provider	:	/common/topic	
+/computer/internet_protocol	:	/common/topic	
+/computer/file_format	:	/common/topic	
+/computer/file_format_genre	:	/common/topic	
+/computer/computing_platform	:	/common/topic	
+/computer/web_browser	:	/common/topic	/computer/software	
+/computer/web_browser_extension	:	/common/topic	
+/computer/html_layout_engine	:	/common/topic	
+/computer/computer_emulator	:	/common/topic	/computer/software	
+/computer/computer_peripheral	:	/common/topic	/business/consumer_product	
+/computer/computer_peripheral_class	:	/common/topic	
+/conferences/conference	:	/common/topic	/time/event	/event/public_speaking_event	
+/conferences/conference_series	:	/common/topic	/time/recurring_event	
+/conferences/conference_sponsor	:	/common/topic	
+/conferences/conference_proceedings	:	/common/topic	/book/written_work	/book/publication	
+/conferences/conference_subject	:	/common/topic	
+/conferences/type_of_conference	:	/common/topic	
+/conferences/conference_venue	:	/common/topic	
+/cricket/cricket_player	:	/people/person	/common/topic	/sports/pro_athlete	
+/cricket/cricket_administrative_body	:	/business/employer	/common/topic	/organization/organization	
+/cricket/cricket_batting_stroke	:	/common/topic	
+/cricket/cricket_bowler	:	/sports/pro_athlete	/people/person	/cricket/cricket_player	/common/topic	
+/cricket/cricket_bowling_pace	:	/common/topic	
+/cricket/cricket_bowling_technique	:	/common/topic	
+/cricket/cricket_coach	:	/people/person	/common/topic	
+/cricket/cricket_delivery_type	:	/common/topic	
+/cricket/cricket_league	:	/sports/sports_league	/common/topic	/business/employer	/organization/organization	
+/cricket/cricket_match	:	/common/topic	
+/cricket/cricket_match_type	:	/common/topic	
+/cricket/cricket_roster	:	/common/topic	
+/cricket/cricket_series	:	/common/topic	/time/recurring_event	
+/cricket/cricket_series_event	:	/sports/sports_championship_event	/common/topic	/time/event	
+/cricket/cricket_stadium	:	/architecture/structure	/sports/sports_facility	/common/topic	/projects/project_focus	/location/location	
+/cricket/cricket_team	:	/sports/sports_team	/common/topic	
+/cricket/cricket_tournament	:	/sports/sports_championship	/common/topic	
+/cricket/cricket_tournament_event	:	/sports/sports_championship_event	/common/topic	
+/cricket/cricket_umpire	:	/people/person	/common/topic	
+/cricket/cricket_umpire_panel	:	/common/topic	
+/cricket/dismissal_type	:	/common/topic	
+/cvg/computer_videogame	:	/common/topic	
+/cvg/cvg_genre	:	/common/topic	/media_common/media_genre	
+/cvg/cvg_platform	:	/common/topic	
+/cvg/cvg_designer	:	/common/topic	
+/cvg/cvg_publisher	:	/common/topic	/business/employer	/business/business_operation	/organization/organization	
+/cvg/cvg_developer	:	/common/topic	
+/cvg/game_character	:	/fictional_universe/fictional_character	/common/topic	
+/cvg/game_voice_actor	:	/people/person	/common/topic	
+/cvg/game_series	:	/common/topic	
+/cvg/game_version	:	/common/topic	
+/cvg/computer_game_expansion	:	/common/topic	/cvg/computer_videogame	
+/cvg/musical_game	:	/common/topic	/cvg/computer_videogame	
+/cvg/computer_game_region	:	/common/topic	
+/cvg/computer_game_performance_type	:	/common/topic	
+/cvg/computer_game_engine	:	/common/topic	
+/cvg/computer_game_engine_developer	:	/common/topic	
+/cvg/input_method	:	/common/topic	
+/cvg/gameplay_mode	:	/common/topic	
+/cvg/computer_game_mod	:	/common/topic	/cvg/computer_videogame	
+/cvg/computer_game_rating	:	/common/topic	
+/cvg/computer_game_rating_system	:	/common/topic	
+/cvg/computer_game_content_descriptor	:	/common/topic	
+/cvg/musical_game_song	:	/common/topic	
+/cvg/computer_game_engine_family	:	/common/topic	
+/cvg/computer_game_compilation	:	/common/topic	/cvg/computer_videogame	
+/cvg/computer_game_subject	:	/common/topic	
+/cvg/computer_game_distribution_system	:	/common/topic	
+/cvg/video_game_soundtrack	:	/common/topic	/music/album	
+/dataworld/mass_data_operation	:	/common/topic	
+/dataworld/information_source	:	/common/topic	
+/dataworld/data_project_type	:	/common/topic	
+/dataworld/type_projects	:	/common/topic	
+/dataworld/type_project	:	/common/topic	
+/dataworld/data_task	:	/common/topic	
+/dataworld/data_task_status	:	/common/topic	
+/dataworld/data_task_category	:	/common/topic	
+/dataworld/incompatible_types	:	/common/topic	
+/dataworld/gardening_hint	:	/common/topic	
+/dataworld/attribution_template	:	/common/topic	
+/dataworld/provenance	:	/type/attribution	
+/dataworld/user_reversion_operation	:	/common/topic	
+/dataworld/public_type_schema_change	:	/common/topic	
+/dataworld/mass_data_load	:	/common/topic	
+/dataworld/gardening_task	:	/common/topic	
+/dataworld/data_tool	:	/common/topic	
+/dataworld/external	:	/common/topic	
+/dataworld/software_tool	:	/common/topic	
+/dataworld/data_provider	:	/common/topic	
+/digicams/digital_camera	:	/common/topic	/business/consumer_product	
+/digicams/camera_format	:	/common/topic	
+/digicams/camera_image_ratio	:	/common/topic	
+/digicams/camera_sensor_type	:	/common/topic	
+/digicams/camera_sensor_manufacturer	:	/common/topic	
+/digicams/camera_iso	:	/common/topic	
+/digicams/camera_storage_type	:	/common/topic	
+/digicams/camera_uncompressed_format	:	/common/topic	
+/digicams/camera_compressed_format	:	/common/topic	
+/digicams/camera_viewfinder_type	:	/common/topic	
+/digicams/image_stabilization_type	:	/common/topic	
+/digicams/camera_color_filter_array_type	:	/common/topic	
+/digicams/digital_camera_manufacturer	:	/common/topic	
+/education/educational_degree	:	/common/topic	
+/education/educational_institution	:	/common/topic	/business/employer	/organization/organization	
+/education/school_mascot	:	/common/topic	
+/education/school_newspaper	:	/common/topic	/book/newspaper	/book/periodical	
+/education/school_category	:	/common/topic	
+/education/fraternity_sorority	:	/common/topic	/organization/organization	/business/employer	
+/education/fraternity_sorority_type	:	/common/topic	
+/education/school	:	/education/educational_institution	/common/topic	/organization/organization	
+/education/school_district	:	/common/topic	/organization/organization	
+/education/university	:	/education/educational_institution	/common/topic	/organization/organization	
+/education/field_of_study	:	/common/topic	
+/education/dissertation	:	/common/topic	/book/written_work	/book/scholarly_work	
+/education/academic	:	/people/person	/common/topic	
+/education/academic_institution	:	/common/topic	
+/education/academic_post_title	:	/common/topic	
+/education/grade_level	:	/common/topic	
+/education/school_magazine	:	/common/topic	/book/magazine	/book/periodical	
+/education/student_organization	:	/common/topic	/organization/organization	
+/education/student_radio_station	:	/common/topic	/broadcast/radio_station	/broadcast/broadcast	
+/education/department	:	/common/topic	
+/education/honorary_degree_recipient	:	/common/topic	/people/person	
+/education/university_system	:	/common/topic	/organization/organization	
+/education/educational_institution_campus	:	/common/topic	/location/location	
+/education/athletics_brand	:	/common/topic	
+/engineering/electric_current_type	:	/common/topic	
+/engineering/material	:	/common/topic	
+/engineering/signal_modulation_mode	:	/common/topic	
+/engineering/channel_access_method	:	/common/topic	
+/engineering/engine	:	/common/topic	/projects/project_focus	
+/engineering/piston_engine	:	/common/topic	/engineering/engine	/projects/project_focus	
+/engineering/piston_configuration	:	/common/topic	
+/engineering/engine_cooling_method	:	/common/topic	
+/engineering/fuel_delivery_method	:	/common/topic	
+/engineering/battery	:	/common/topic	
+/engineering/battery_cell_type	:	/common/topic	
+/engineering/valvetrain_configuration	:	/common/topic	
+/engineering/battery_size	:	/common/topic	
+/engineering/battery_shape_format	:	/common/topic	
+/engineering/reaction_engine	:	/common/topic	/engineering/engine	/projects/project_focus	
+/engineering/engine_category	:	/common/topic	/law/invention	
+/engineering/engine_designer	:	/common/topic	/projects/project_participant	
+/engineering/engine_energy_source	:	/common/topic	
+/engineering/power_plug_standard	:	/common/topic	
+/engineering/power_plug_standard_type	:	/common/topic	
+/engineering/location_with_mains_power	:	/common/topic	/location/location	
+/time/event	:	/common/topic	
+/event/disaster	:	/common/topic	/time/event	
+/time/recurring_event	:	/common/topic	
+/event/disaster_type	:	/common/topic	
+/event/disaster_victim	:	/common/topic	/people/deceased_person	/people/person	
+/event/disaster_survivor	:	/common/topic	/people/person	
+/event/disaster_affected_structure	:	/common/topic	/architecture/structure	/projects/project_focus	
+/event/presented_work	:	/common/topic	/book/written_work	
+/event/public_speaker	:	/common/topic	/people/person	
+/event/speech_topic	:	/common/topic	
+/event/type_of_public_presentation	:	/common/topic	
+/event/public_speaking_event	:	/common/topic	/time/event	
+/event/promoted_event	:	/common/topic	
+/event/event_producer	:	/common/topic	
+/event/produced_event	:	/common/topic	
+/event/event_promoter	:	/common/topic	
+/exhibitions/exhibition	:	/common/topic	
+/exhibitions/type_of_exhibition	:	/common/topic	
+/exhibitions/exhibition_subject	:	/common/topic	
+/exhibitions/exhibition_venue	:	/common/topic	
+/exhibitions/exhibition_sponsor	:	/common/topic	
+/exhibitions/exhibition_producer	:	/common/topic	
+/exhibitions/exhibit	:	/common/topic	
+/exhibitions/exhibition_curator	:	/common/topic	
+/fashion/garment	:	/common/topic	
+/fashion/textile	:	/common/topic	
+/fashion/weave	:	/common/topic	
+/fashion/fiber	:	/common/topic	
+/fashion/fashion_category	:	/common/topic	
+/fashion/fashion_week	:	/common/topic	/time/recurring_event	
+/fashion/fashion_designer	:	/common/topic	
+/fashion/fashion_label	:	/common/topic	
+/fictional_universe/character_gender	:	/common/topic	
+/fictional_universe/character_species	:	/common/topic	
+/fictional_universe/character_occupation	:	/common/topic	
+/fictional_universe/character_powers	:	/common/topic	
+/fictional_universe/character_rank	:	/common/topic	
+/fictional_universe/fictional_organization	:	/common/topic	
+/fictional_universe/fictional_organization_type	:	/common/topic	
+/fictional_universe/work_of_fiction	:	/common/topic	
+/fictional_universe/person_in_fiction	:	/common/topic	
+/fictional_universe/fictional_character	:	/common/topic	
+/fictional_universe/fictional_setting	:	/common/topic	
+/fictional_universe/fictional_universe	:	/common/topic	
+/fictional_universe/fictional_character_creator	:	/common/topic	/people/person	
+/fictional_universe/fictional_language	:	/common/topic	
+/fictional_universe/fictional_object	:	/common/topic	
+/fictional_universe/fictional_substance	:	/common/topic	
+/fictional_universe/fictional_employer	:	/common/topic	
+/fictional_universe/fictional_job_title	:	/common/topic	
+/fictional_universe/fictional_creature	:	/common/topic	
+/fictional_universe/fictional_plant	:	/common/topic	
+/fictional_universe/fictional_calendar_system	:	/common/topic	
+/fictional_universe/calendar_system_directionality	:	/common/topic	
+/fictional_universe/fictional_universe_creator	:	/common/topic	
+/fictional_universe/ethnicity_in_fiction	:	/common/topic	
+/fictional_universe/school_in_fiction	:	/common/topic	
+/fictional_universe/medical_condition_in_fiction	:	/common/topic	
+/fictional_universe/type_of_fictional_setting	:	/common/topic	
+/fictional_universe/fictional_organization_founder	:	/common/topic	
+/fictional_universe/fictional_object_destroyer	:	/common/topic	/fictional_universe/fictional_character	
+/fictional_universe/fictional_object_destruction_method	:	/common/topic	
+/fictional_universe/event_in_fiction	:	/common/topic	
+/film/film	:	/common/topic	
+/film/content_rating	:	/common/topic	
+/film/director	:	/people/person	/common/topic	
+/film/producer	:	/people/person	/common/topic	
+/film/writer	:	/people/person	/common/topic	
+/film/cinematographer	:	/people/person	/common/topic	
+/film/editor	:	/people/person	/common/topic	
+/film/music_contributor	:	/common/topic	
+/film/actor	:	/people/person	/common/topic	
+/film/content_rating_system	:	/common/topic	
+/film/film_collection	:	/common/topic	
+/film/film_theorist	:	/people/person	/common/topic	
+/film/film_festival	:	/common/topic	/time/recurring_event	
+/film/film_company	:	/common/topic	/business/employer	/business/business_operation	/organization/organization	
+/film/film_job	:	/common/topic	
+/film/film_critic	:	/people/person	/common/topic	
+/film/film_series	:	/common/topic	
+/film/film_format	:	/common/topic	
+/film/film_genre	:	/common/topic	/media_common/media_genre	
+/film/film_location	:	/common/topic	
+/film/film_story_contributor	:	/common/topic	
+/film/film_subject	:	/common/topic	
+/film/film_character	:	/common/topic	/fictional_universe/fictional_character	
+/film/special_film_performance_type	:	/common/topic	
+/film/personal_film_appearance_type	:	/common/topic	
+/film/film_cut_type	:	/common/topic	
+/film/film_costumer_designer	:	/common/topic	/people/person	
+/film/film_crewmember	:	/common/topic	/people/person	
+/film/film_distributor	:	/common/topic	
+/film/production_company	:	/common/topic	
+/film/film_distribution_medium	:	/common/topic	
+/film/film_company_role_or_service	:	/common/topic	
+/film/film_screening_venue	:	/common/topic	
+/film/film_festival_event	:	/common/topic	/time/event	
+/film/film_festival_sponsor	:	/common/topic	
+/film/film_festival_focus	:	/common/topic	
+/film/film_featured_song	:	/common/topic	
+/film/film_casting_director	:	/common/topic	/people/person	
+/film/film_production_designer	:	/common/topic	/people/person	
+/film/film_art_director	:	/common/topic	/people/person	
+/film/film_set_designer	:	/common/topic	/people/person	
+/film/person_or_entity_appearing_in_film	:	/common/topic	
+/film/film_song	:	/common/topic	/music/composition	
+/film/film_song_performer	:	/common/topic	
+/food/cheese	:	/common/topic	
+/food/cheese_texture	:	/common/topic	
+/food/cheese_certification	:	/common/topic	
+/food/brewery_brand_of_beer	:	/common/topic	
+/food/beer_style	:	/common/topic	
+/food/beer	:	/common/topic	
+/food/tea	:	/common/topic	
+/food/tea_type	:	/common/topic	
+/food/bottled_water	:	/common/topic	
+/food/beverage_type	:	/common/topic	
+/food/beverage	:	/common/topic	
+/dining/restaurant	:	/business/business_location	/common/topic	
+/dining/cuisine	:	/common/topic	
+/food/beer_style_category	:	/common/topic	
+/food/candy_bar	:	/common/topic	
+/food/candy_bar_manufacturer	:	/common/topic	/business/business_operation	/organization/organization	
+/wine/wine	:	/common/topic	
+/wine/wine_type	:	/common/topic	
+/wine/appellation	:	/common/topic	/location/location	
+/wine/vineyard	:	/common/topic	/location/location	
+/wine/wine_producer	:	/common/topic	/business/employer	/business/business_operation	/organization/organization	
+/wine/fruit_source	:	/common/topic	
+/wine/grape_variety	:	/common/topic	
+/wine/wine_color	:	/common/topic	
+/wine/wine_region	:	/common/topic	/location/location	
+/wine/wine_sub_region	:	/common/topic	/location/location	
+/food/ingredient	:	/common/topic	
+/food/dish	:	/common/topic	
+/food/culinary_measure	:	/common/topic	
+/food/type_of_dish	:	/common/topic	
+/food/cheese_milk_source	:	/common/topic	
+/distilled_spirits/fermentation_base	:	/common/topic	
+/distilled_spirits/spirit_producing_region	:	/common/topic	/location/location	
+/distilled_spirits/spirit_blender	:	/common/topic	/business/employer	/business/business_operation	/organization/organization	
+/distilled_spirits/distillery	:	/common/topic	/business/employer	/business/business_operation	/organization/organization	
+/distilled_spirits/blended_spirit	:	/common/topic	
+/distilled_spirits/spirit_bottler	:	/common/topic	/business/employer	/business/business_operation	/organization/organization	
+/distilled_spirits/distilled_spirit	:	/common/topic	
+/distilled_spirits/distilled_spirit_type	:	/common/topic	
+/distilled_spirits/blended_spirit_style	:	/common/topic	
+/distilled_spirits/infused_spirit	:	/common/topic	
+/distilled_spirits/infused_spirit_style	:	/common/topic	
+/dining/chef	:	/common/topic	/people/person	/influence/influence_node	
+/food/beer_country_region	:	/common/topic	
+/food/beer_container	:	/common/topic	
+/food/drinking_establishment	:	/common/topic	/business/business_location	/business/employer	
+/food/drinking_establishment_type	:	/common/topic	
+/food/licensee	:	/common/topic	
+/food/nutrient	:	/common/topic	
+/food/recipe	:	/common/topic	
+/food/recipe_collection	:	/common/topic	
+/food/recipe_author	:	/common/topic	/people/person	
+/food/culinary_tool	:	/common/topic	
+/food/diet	:	/common/topic	
+/food/diet_follower	:	/common/topic	
+/food/food	:	/common/topic	
+/food/culinary_technique	:	/common/topic	
+/food/wine_style	:	/common/topic	
+/food/dietary_restriction	:	/common/topic	
+/freebase/freebase_help_topic	:	/common/topic	
+/freebase/software_ticket	:	/common/topic	
+/freebase/metaweb_application	:	/common/topic	
+/freebase/desired_application	:	/common/topic	
+/freebase/featured_application	:	/common/topic	/internet/website	
+/freebase/data_mob_project	:	/common/topic	
+/freebase/closed_bug_feature_request	:	/common/topic	
+/freebase/equivalent_topic	:	/common/topic	
+/freebase/freebase_query	:	/common/topic	
+/freebase/unit_profile	:	/type/unit	/common/topic	
+/freebase/general_discussion	:	/common/topic	
+/freebase/metaweb_framework	:	/common/topic	/computer/software	
+/freebase/help_section	:	/common/topic	
+/freebase/help_area	:	/common/topic	
+/freebase/freebase_interest_group	:	/common/topic	
+/freebase/metaweb_api_service	:	/common/topic	
+/freebase/metaweb_api_argument	:	/common/topic	
+/freebase/metaweb_api_http_header	:	/common/topic	
+/freebase/metaweb_api_argument_format	:	/common/topic	
+/freebase/metaweb_api_service_status	:	/common/topic	
+/freebase/metaweb_api_service_category	:	/common/topic	
+/freebase/metaweb_api_argument_type	:	/common/topic	
+/freebase/freebase_tip	:	/common/topic
+/freebase/freebase_tip_category	:	/common/topic	
+/freebase/theme	:	/common/topic	
+/freebase/news_article	:	/common/topic	
+/freebase/help_center	:	/common/topic	
+/freebase/help_topic_user_level	:	/common/topic	
+/freebase/help_topic_audience	:	/common/topic	
+/freebase/query	:	/common/document	/common/topic	
+/freebase/view_type	:	/common/topic	
+/freebase/written_by	:	/common/topic	
+/freebase/vendor	:	/common/topic	
+/freebase/vendor_template	:	/common/topic	
+/freebase/vendor_links_profile	:	/common/topic	
+/freebase/list	:	/common/topic	
+/freebase/comment	:	/common/topic	
+/freebase/list_category	:	/common/topic	
+/freebase/labs_project	:	/common/topic	
+/freebase/task	:	/common/topic	
+/freebase/suggestion	:	/common/topic	
+/freebase/object_profile	:	/common/topic	
+/games/game	:	/common/topic	
+/games/game_designer	:	/common/topic	
+/games/game_publisher	:	/common/topic	
+/games/game_genre	:	/common/topic	/media_common/media_genre	
+/games/playing_card_game	:	/games/game	/common/topic	
+/games/playing_card_deck_type	:	/common/topic	
+/games/playing_card_game_play_direction	:	/common/topic	
+/chess/chess_game	:	/common/topic	
+/chess/chess_player	:	/common/topic	/people/person	
+/chess/chess_color	:	/common/topic	
+/chess/chess_game_outcome	:	/common/topic	
+/games/game_expansion	:	/common/topic	
+/geography/mountain	:	/location/location	/common/topic	/geography/geographical_feature	
+/geography/mountain_range	:	/location/location	/common/topic	/geography/geographical_feature	
+/geography/mountain_type	:	/common/topic	
+/geography/mountaineer	:	/people/person	/common/topic	
+/geography/waterfall	:	/geography/body_of_water	/location/location	/common/topic	/geography/geographical_feature	
+/geography/waterfall_type	:	/common/topic	
+/geography/glacier	:	/location/location	/common/topic	/geography/geographical_feature	
+/geography/glacier_type	:	/common/topic	
+/geography/glacier_terminus	:	/common/topic	
+/geography/glacier_status	:	/common/topic	
+/geography/mountain_pass	:	/location/location	/common/topic	/geography/geographical_feature	
+/geography/river	:	/geography/body_of_water	/common/topic	/location/location	/geography/geographical_feature	
+/geography/lake	:	/geography/body_of_water	/location/location	/common/topic	/geography/geographical_feature	
+/geography/lake_type	:	/common/topic	
+/geography/island	:	/location/location	/common/topic	/geography/geographical_feature	
+/geography/island_group	:	/location/location	/common/topic	/geography/geographical_feature	
+/geography/body_of_water	:	/common/topic	/location/location	/geography/geographical_feature	
+/geography/geographical_feature	:	/common/topic	/location/location	
+/geography/mountain_listing	:	/common/topic	
+/geography/geographical_feature_category	:	/common/topic	
+/geology/geological_formation	:	/common/topic	/location/location	/geography/geographical_feature	
+/geology/rock_type	:	/common/topic	
+/government/legislative_committee	:	/common/topic	
+/government/us_president	:	/people/person	/common/topic	/government/politician	
+/government/political_party	:	/common/topic	/organization/organization	/business/employer	
+/government/us_vice_president	:	/people/person	/common/topic	/government/politician	
+/government/government	:	/common/topic	
+/government/government_agency	:	/common/topic	/organization/organization	
+/government/political_district	:	/location/location	/common/topic	/location/dated_location	
+/government/government_office_or_title	:	/common/topic	
+/government/governmental_body	:	/common/topic	
+/government/governmental_jurisdiction	:	/location/location	/common/topic	
+/government/politician	:	/people/person	/common/topic	
+/government/political_appointer	:	/common/topic	
+/government/form_of_government	:	/common/topic	
+/government/national_anthem	:	/common/topic	/music/composition	
+/government/election	:	/common/topic	/time/event	
+/government/election_campaign	:	/common/topic	
+/government/primary_election	:	/government/election	/common/topic	
+/government/legislative_session	:	/common/topic	
+/government/legislative_committee_title	:	/common/topic	
+/government/us_vice_presidential_campaign	:	/common/topic	/government/election_campaign	
+/government/us_presidential_campaign	:	/common/topic	/government/election_campaign	
+/government/general_election	:	/common/topic	/time/event	
+/government/u_s_congressperson	:	/common/topic	/government/politician	/people/person	
+/government/canadian_mp	:	/common/topic	/people/person	/government/politician	
+/government/australian_mp	:	/common/topic	/people/person	/government/politician	
+/government/political_ideology	:	/common/topic	
+/government/parliamentary_election	:	/common/topic	/government/general_election	/time/event	
+/government/indirect_election	:	/common/topic	
+/government/electoral_college	:	/common/topic	
+/government/government_office_category	:	/common/topic	
+/government/election_poll	:	/common/topic	
+/government/polling_authority	:	/common/topic	
+/government/polled_area	:	/common/topic	/location/location	
+/government/poll_respondent_category	:	/common/topic	
+/government/polled_entity	:	/common/topic	
+/government/election_with_polls	:	/common/topic	
+/ice_hockey/hockey_team	:	/common/topic	/sports/sports_team	
+/ice_hockey/hockey_player	:	/people/person	/common/topic	/sports/pro_athlete	
+/ice_hockey/hockey_division	:	/common/topic	
+/ice_hockey/hockey_conference	:	/common/topic	
+/ice_hockey/hockey_coach	:	/common/topic	
+/ice_hockey/hockey_position	:	/common/topic	
+/influence/influence_node	:	/common/topic	
+/interests/collector	:	/common/topic	/people/person	
+/interests/interest	:	/common/topic	
+/interests/collection_activity	:	/common/topic	/interests/hobby	/interests/interest	
+/interests/hobbyist	:	/common/topic	/people/person	
+/interests/collection_category	:	/common/topic	
+/interests/hobby	:	/common/topic	/interests/interest	
+/interests/collectable_item	:	/common/topic	
+/internet/website	:	/common/topic	
+/internet/blog	:	/common/topic	
+/internet/blogger	:	/people/person	/common/topic	
+/internet/website_category	:	/common/topic	
+/internet/api	:	/common/topic	
+/internet/protocol	:	/common/topic	
+/internet/website_status	:	/common/topic	
+/internet/top_level_domain	:	/common/topic	
+/internet/top_level_domain_sponsor	:	/common/topic	
+/internet/top_level_domain_status	:	/common/topic	
+/internet/top_level_domain_registry	:	/common/topic	
+/internet/top_level_domain_type	:	/common/topic	
+/internet/website_owner	:	/common/topic	
+/internet/social_network_user	:	/common/topic	
+/language/human_language	:	/common/topic	
+/language/language_family	:	/common/topic	
+/language/language_writing_system	:	/common/topic	
+/language/language_regulator	:	/common/topic	/organization/organization	
+/language/language_writing_type	:	/common/topic	
+/language/language_creator	:	/common/topic	/people/person	
+/language/conlang_purpose	:	/common/topic	
+/language/language_dialect	:	/common/topic	
+/language/conlang	:	/common/topic	/language/human_language	
+/law/us_patent	:	/common/topic	
+/law/us_patent_category	:	/common/topic	
+/law/international_patent_category	:	/common/topic	
+/law/invention	:	/common/topic	
+/law/inventor	:	/people/person	/common/topic	
+/law/us_patent_type	:	/common/topic	
+/law/patent_assignee	:	/common/topic	
+/law/constitution	:	/common/topic	
+/law/constitutional_convention	:	/common/topic	/time/event	
+/law/constitutional_amendment	:	/common/topic	
+/law/legal_case	:	/common/topic	/time/event	
+/law/court	:	/common/topic	
+/law/legal_subject	:	/common/topic	
+/law/litigant	:	/common/topic	
+/law/courthouse	:	/common/topic	/architecture/structure	/architecture/building	
+/law/judge	:	/common/topic	/people/person	
+/law/patent_office	:	/common/topic	
+/law/constitutional_convention_delegate	:	/common/topic	/people/person	
+/law/constitutional_amendment_proposer	:	/common/topic	
+/law/judicial_title	:	/user/skud/legal/topic	/common/topic	
+/law/legal_case_party_relationship	:	/user/skud/legal/topic	
+/law/legal_party_role	:	/user/skud/legal/topic	/common/topic	
+/law/court_jurisdiction_area	:	/user/skud/legal/topic	/common/topic	/location/location	
+/library/public_library_system	:	/common/topic	
+/library/public_library	:	/common/topic	
+/location/citytown	:	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/continent	:	/location/location	/common/topic	/location/statistical_region	
+/location/country	:	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/location	:	/common/topic	
+/location/neighborhood	:	/location/location	/common/topic	
+/location/province	:	/location/location	/common/topic	/location/administrative_division	/location/statistical_region	/location/dated_location	
+/location/region	:	/location/location	/common/topic	
+/location/us_county	:	/location/location	/common/topic	/location/administrative_division	/location/statistical_region	/location/dated_location	
+/location/census_designated_place	:	/location/location	/common/topic	/location/statistical_region	
+/location/us_state	:	/location/location	/common/topic	/location/administrative_division	/location/statistical_region	/location/dated_location	
+/location/mailing_address	:	/location/location	
+/location/postal_code	:	/common/topic	/location/location	
+/location/administrative_division	:	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/fr_department	:	/location/location	/common/topic	/location/administrative_division	/location/statistical_region	/location/dated_location	
+/location/fr_region	:	/location/location	/common/topic	/location/administrative_division	/location/statistical_region	/location/dated_location	
+/location/us_federal_district	:	/common/topic	/location/statistical_region	/location/dated_location	
+/location/us_territory	:	/common/topic	/location/statistical_region	/location/dated_location	
+/location/ca_territory	:	/common/topic	/location/administrative_division	/location/location	/location/statistical_region	/location/dated_location	
+/location/us_indian_reservation	:	/common/topic	/location/administrative_division	/location/location	/location/statistical_region	/location/dated_location	
+/location/ca_indian_reserve	:	/common/topic	/location/administrative_division	/location/location	/location/statistical_region	/location/dated_location	
+/location/ca_census_division	:	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/australian_state	:	/common/topic	/location/administrative_division	/location/location	/location/statistical_region	/location/dated_location	
+/location/australian_territory	:	/common/topic	/location/administrative_division	/location/location	/location/statistical_region	/location/dated_location	
+/location/australian_local_government_area	:	/common/topic	/location/administrative_division	/location/location	/location/statistical_region	/location/dated_location	
+/location/cn_province	:	/location/administrative_division	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/cn_autonomous_region	:	/location/administrative_division	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/cn_municipality	:	/location/administrative_division	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/cn_special_administrative_region	:	/location/administrative_division	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/cn_prefecture_level_city	:	/location/administrative_division	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/cn_prefecture	:	/location/administrative_division	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/cn_autonomous_prefecture	:	/location/administrative_division	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/cn_county	:	/location/administrative_division	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/cn_county_level_city	:	/location/administrative_division	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/cn_autonomous_county	:	/location/administrative_division	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/cn_city_district	:	/location/administrative_division	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/cn_township	:	/location/administrative_division	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/cn_town	:	/location/administrative_division	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/cn_subdistrict	:	/location/administrative_division	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/cn_county_district	:	/location/administrative_division	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/hk_district	:	/location/administrative_division	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/br_state	:	/common/topic	/location/location	/location/administrative_division	/location/statistical_region	/location/dated_location	
+/location/br_federal_district	:	/common/topic	/location/statistical_region	/location/dated_location	
+/location/kp_province	:	/location/location	/common/topic	/location/administrative_division	/location/statistical_region	/location/dated_location	
+/location/kp_metropolitan_city	:	/location/location	/common/topic	/location/administrative_division	/location/citytown	/location/statistical_region	/location/dated_location	
+/location/kp_special_city	:	/location/statistical_region	/location/dated_location	/common/topic	
+/location/kp_county	:	/location/location	/common/topic	/location/administrative_division	/location/statistical_region	/location/dated_location	
+/location/kp_city	:	/location/location	/common/topic	/location/citytown	/location/statistical_region	/location/dated_location	
+/location/jp_prefecture	:	/common/topic	/location/administrative_division	/location/location	/location/statistical_region	/location/dated_location	
+/location/jp_subprefecture	:	/common/topic	/location/administrative_division	/location/location	/location/statistical_region	/location/dated_location	
+/location/jp_designated_city	:	/common/topic	/location/citytown	/location/location	/location/statistical_region	/location/dated_location	
+/location/jp_district	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/jp_special_ward	:	/location/citytown	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/jp_ward	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/jp_city_town	:	/location/citytown	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/in_state	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/in_union_territory	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/in_division	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/in_district	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/in_subdivision	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/in_city	:	/location/citytown	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/it_region	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/it_province	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/it_comune	:	/location/citytown	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/it_frazione	:	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/de_state	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/de_regierungsbezirk	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/de_rural_district	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/de_urban_district	:	/location/citytown	/location/location	/common/topic	/location/de_city	/location/statistical_region	/location/dated_location	
+/location/de_borough	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/de_city	:	/location/citytown	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/uk_constituent_country	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/uk_region	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/uk_metropolitan_county	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/uk_non_metropolitan_county	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/uk_unitary_authority	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/uk_metropolitan_borough	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/uk_non_metropolitan_district	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/uk_london_borough	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/uk_civil_parish	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/uk_district	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/uk_council_area	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/uk_principal_area	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/uk_crown_dependency	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/uk_overseas_territory	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/es_autonomous_community	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/es_autonomous_city	:	/location/administrative_division	/location/location	/location/citytown	/common/topic	/location/statistical_region	/location/dated_location	
+/location/es_province	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/es_place_of_sovereignty	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/es_comarca	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/nl_province	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/nl_municipality	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/mx_state	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/mx_federal_district	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/mx_municipality	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/mx_federal_district_borough	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/tr_province	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/tr_district	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/my_state	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/my_federal_territory	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/my_division	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/my_district	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/id_province	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/id_regency	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/id_city	:	/location/administrative_division	/location/location	/location/citytown	/common/topic	/location/statistical_region	/location/dated_location	
+/location/id_subdistrict	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/vn_province	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/vn_centrally_controlled_municipality	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/vn_urban_district	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/vn_township	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/vn_rural_district	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/vn_precinct	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/vn_town_under_district	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/vn_commune	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/tw_province	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/tw_direct_controlled_municipality	:	/location/administrative_division	/location/location	/location/citytown	/common/topic	/location/statistical_region	/location/dated_location	
+/location/tw_district	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/tw_provincial_city	:	/location/administrative_division	/location/location	/location/citytown	/common/topic	/location/statistical_region	/location/dated_location	
+/location/tw_county	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/tw_county_administered_city	:	/location/administrative_division	/location/location	/location/citytown	/common/topic	/location/statistical_region	/location/dated_location	
+/location/tw_township	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/ru_federal_district	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/ru_autonomous_oblast	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/ru_autonomous_okrug	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/ru_federal_city	:	/location/citytown	/location/location	/location/administrative_division	/common/topic	/location/statistical_region	/location/dated_location	
+/location/ru_krai	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/ru_oblast	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/ru_republic	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/ru_raion	:	/location/administrative_division	/location/location	/common/topic	/location/statistical_region	/location/dated_location	
+/location/statistical_region	:	/common/topic	/location/location	
+/location/australian_suburb	:	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/australian_external_territory	:	/common/topic	/location/administrative_division	/location/location	/location/statistical_region	/location/dated_location	
+/location/dated_location	:	/location/location	/common/topic	
+/location/cemetery	:	/common/topic	/location/location	/people/place_of_interment	/location/dated_location	
+/location/geometry	:	/common/topic	
+/location/symbol_of_administrative_division	:	/common/topic	
+/location/offical_symbol_variety	:	/common/topic	
+/location/place_with_neighborhoods	:	/common/topic	/location/location	
+/location/census_tract	:	/common/topic	/location/location	
+/location/hud_mfa	:	/common/topic	
+/location/hud_section_8_area	:	/common/topic	/location/location	/location/us_cbsa	
+/location/us_cbsa	:	/common/topic	/location/location	
+/location/hud_foreclosure_area	:	/common/topic	/location/location	
+/location/hud_nmfa	:	/common/topic	
+/location/pr_municipality	:	/common/topic	/location/location	/location/administrative_division	/location/dated_location	/location/statistical_region	/location/us_county	
+/location/hud_county_place	:	/common/topic	/location/hud_foreclosure_area	/location/location	
+/location/us_metropolitan_division	:	/common/topic	/location/location	
+/location/tr_region	:	/common/topic	/location/dated_location	/location/statistical_region	/location/location	
+/location/ar_province	:	/common/topic	/location/administrative_division	/location/dated_location	/location/location	/location/statistical_region	
+/location/ar_department	:	/common/topic	/location/administrative_division	/location/dated_location	/location/location	/location/statistical_region	
+/location/ar_commune	:	/common/topic	/location/location	/location/administrative_division	/location/dated_location	/location/statistical_region	
+/location/vn_provincial_city	:	/common/topic	/location/administrative_division	/location/dated_location	/location/location	/location/statistical_region	
+/location/brazilian_municipality	:	/common/topic	/location/location	/location/statistical_region	/location/dated_location	
+/location/ua_autonomous_republic	:	/common/topic	/location/administrative_division	/location/dated_location	/location/location	/location/statistical_region	
+/location/ua_raion	:	/common/topic	/location/administrative_division	/location/dated_location	/location/location	/location/statistical_region	
+/location/ua_oblast	:	/common/topic	/location/administrative_division	/location/dated_location	/location/location	/location/statistical_region	
+/location/uk_statistical_location	:	/common/topic	/location/location	
+/location/irish_province	:	/common/topic	
+/location/capital_of_administrative_division	:	/common/topic	/location/location	/location/dated_location	
+/location/capital_category	:	/common/topic	
+/martial_arts/martial_art	:	/common/topic	
+/martial_arts/martial_art_category	:	/common/topic	
+/martial_arts/martial_artist	:	/common/topic	/people/person	
+/martial_arts/martial_arts_organization	:	/common/topic	
+/martial_arts/martial_arts_qualification	:	/common/topic	
+/measurement_unit/measurement_system	:	/common/topic	
+/measurement_unit/volume_unit	:	/common/topic	/freebase/unit_profile	/type/unit	
+/measurement_unit/mass_unit	:	/common/topic	/freebase/unit_profile	/type/unit	
+/measurement_unit/distance_unit	:	/common/topic	/freebase/unit_profile	/type/unit	
+/measurement_unit/area_unit	:	/common/topic	/freebase/unit_profile	/type/unit	
+/measurement_unit/temperature_unit	:	/common/topic	/freebase/unit_profile	/type/unit	
+/measurement_unit/energy_unit	:	/common/topic	/freebase/unit_profile	/type/unit	
+/measurement_unit/pressure_unit	:	/common/topic	/freebase/unit_profile	/type/unit	
+/measurement_unit/time_unit	:	/common/topic	/freebase/unit_profile	/type/unit	
+/measurement_unit/speed_unit	:	/common/topic	/freebase/unit_profile	/type/unit	
+/measurement_unit/power_unit	:	/common/topic	/freebase/unit_profile	/type/unit	
+/measurement_unit/data_size_unit	:	/common/topic	/freebase/unit_profile	/type/unit	
+/measurement_unit/unit_of_force	:	/common/topic	/freebase/unit_profile	/type/unit	
+/measurement_unit/unit_of_density	:	/common/topic	/freebase/unit_profile	/type/unit	
+/measurement_unit/unit_of_frequency	:	/common/topic	/freebase/unit_profile	/type/unit	
+/measurement_unit/common_dimension	:	/common/topic	/measurement_unit/dimension	
+/measurement_unit/dimension	:	/common/topic	
+/measurement_unit/current_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/substance_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/luminous_intensity_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/acceleration_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/wavenumber_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/unit_of_surface_density	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/specific_volume_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/current_density_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/magnetic_field_strength_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/amount_concentration_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/luminance_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/angle_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/solid_angle_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/charge_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/potential_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/capacitance_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/resistance_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/conductance_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/magnetic_flux_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/magnetic_flux_density_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/inductance_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/luminous_flux_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/illuminance_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/radioactivity_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/absorbed_dose_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/dose_equivalence_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/catalytic_activity_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/viscosity_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/force_moment_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/surface_tension_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/angular_velocity_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/angular_acceleration_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/irradiance_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/heat_capacity_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/specific_heat_capacity_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/specific_energy_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/thermal_conductivity_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/energy_density_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/electric_field_strength_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/electric_charge_density_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/electric_flux_density_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/permittivity_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/permeability_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/molar_energy_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/molar_heat_capacity_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/exposure_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/absorbed_dose_rate_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/radiant_intensity_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/radiance_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/catalytic_concentration_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/volumetric_heat_capacity_unit	:	/common/topic	/freebase/unit_profile	/type/unit	
+/measurement_unit/molar_volume_unit	:	/common/topic	/freebase/unit_profile	/type/unit	
+/measurement_unit/fuel_economy_unit	:	/common/topic	/freebase/unit_profile	/type/unit	
+/measurement_unit/inverse_temperature_unit	:	/freebase/unit_profile	/type/unit	
+/measurement_unit/unit_of_volumetric_flow_rate	:	/common/topic	/type/unit	/freebase/unit_profile	
+/measurement_unit/unit_of_molar_mass	:	/common/topic	
+/measurement_unit/unit_of_resistivity	:	/common/topic	/freebase/unit_profile	/type/unit	
+/measurement_unit/unit_of_brake_specific_fuel_consumption	:	/type/unit	/freebase/unit_profile	
+/measurement_unit/unit_of_specific_fuel_consumption	:	/type/unit	/freebase/unit_profile	
+/measurement_unit/measuring_instrument	:	/common/topic	
+/measurement_unit/unit_of_cargo_capacity	:	/common/topic	/type/unit	/freebase/unit_profile	
+/measurement_unit/unit_of_data_transmission_rate	:	/common/topic	/type/unit	/freebase/unit_profile	
+/measurement_unit/unit_of_symbol_rate	:	/common/topic	/type/unit	/freebase/unit_profile	
+/measurement_unit/unit_of_conductivity	:	/common/topic	/type/unit	/freebase/unit_profile	
+/book/author	:	/common/topic	/people/person	
+/media_common/adaptation	:	/common/topic	
+/media_common/adapted_work	:	/common/topic	
+/book/school_or_movement	:	/common/topic	
+/media_common/literary_genre	:	/common/topic	/media_common/media_genre	
+/media_common/quotation	:	/common/topic	
+/media_common/quotation_source	:	/common/topic	
+/media_common/quotation_subject	:	/common/topic	
+/book/published_work	:	/common/topic	
+/book/publication	:	/common/topic	
+/book/translated_work	:	/common/topic	
+/book/excerpted_work	:	/common/topic	
+/book/excerpt	:	/book/published_work	/common/topic	
+/book/translation	:	/book/published_work	/common/topic	
+/book/translator	:	/people/person	/common/topic	
+/book/interview	:	/book/published_work	/common/topic	
+/book/interviewer	:	/people/person	/common/topic	
+/book/interviewee	:	/people/person	/common/topic	
+/book/review	:	/book/published_work	/common/topic	/book/written_work	
+/book/reviewed_work	:	/common/topic	
+/media_common/media_genre	:	/common/topic	
+/book/literary_series	:	/common/topic	
+/book/written_work	:	/common/topic	
+/book/illustrator	:	/people/person	/common/topic	
+/book/scholarly_work	:	/book/written_work	/book/published_work	/common/topic	
+/book/cited_work	:	/common/topic	
+/book/financial_support_provider	:	/common/topic	
+/media_common/dedicated_work	:	/common/topic	
+/media_common/dedicatee	:	/common/topic	
+/media_common/dedicator	:	/common/topic	
+/media_common/unfinished_work	:	/common/topic	
+/media_common/lost_work	:	/common/topic	
+/media_common/cause_of_loss	:	/common/topic	
+/media_common/completer_of_unfinished_work	:	/people/person	/common/topic	
+/media_common/quotation_addressee	:	/common/topic	
+/media_common/netflix_title	:	/common/topic	
+/media_common/netflix_genre	:	/common/topic	
+/media_common/cataloged_instance	:	/common/topic	
+/medicine/artery	:	/medicine/anatomical_structure	/common/topic	
+/medicine/muscle	:	/medicine/anatomical_structure	/common/topic	
+/medicine/surgeon	:	/people/person	/common/topic	
+/medicine/ligament	:	/medicine/anatomical_structure	/common/topic	
+/medicine/disease	:	/common/topic	
+/medicine/brain	:	/medicine/anatomical_structure	/common/topic	
+/medicine/hospital	:	/common/topic	/architecture/building	/architecture/structure	/location/location	
+/medicine/nerve	:	/medicine/anatomical_structure	/common/topic	
+/medicine/symptom	:	/common/topic	
+/medicine/drug	:	/common/topic	
+/medicine/anatomical_structure	:	/common/topic	
+/medicine/bone	:	/medicine/anatomical_structure	/common/topic	
+/medicine/cranial_nerve	:	/medicine/nerve	/medicine/anatomical_structure	/common/topic	
+/medicine/vein	:	/medicine/anatomical_structure	/common/topic	
+/medicine/physician	:	/people/person	/common/topic	
+/medicine/condition_prevention_factors	:	/common/topic	
+/medicine/medical_treatment	:	/common/topic	
+/medicine/contraindication	:	/common/topic	
+/medicine/drug_class	:	/common/topic	
+/medicine/drug_brand	:	/common/topic	
+/medicine/drug_administration_route	:	/common/topic	
+/medicine/drug_pregnancy_category	:	/common/topic	
+/medicine/drug_legal_status	:	/common/topic	
+/medicine/medical_device	:	/common/topic	
+/medicine/medical_trial	:	/common/topic	
+/medicine/medical_trial_sponsor	:	/common/topic	
+/medicine/medical_trial_type	:	/common/topic	
+/medicine/medical_trial_design	:	/common/topic	
+/medicine/medical_trial_phase	:	/common/topic	
+/medicine/medical_trial_health_authority	:	/common/topic	
+/medicine/biofluid	:	/common/topic	
+/medicine/medical_specialty	:	/common/topic	
+/medicine/disease_cause	:	/common/topic	
+/medicine/hormone	:	/common/topic	
+/medicine/hospital_ownership_status	:	/common/topic	
+/medicine/vaccine	:	/common/topic	/medicine/drug	/medicine/condition_prevention_factors	/medicine/medical_treatment	
+/medicine/vaccine_developer	:	/common/topic	
+/medicine/risk_factor	:	/common/topic	
+/medicine/disease_stage	:	/common/topic	
+/medicine/cancer_center	:	/common/topic	
+/medicine/cancer_center_constituent	:	/common/topic	
+/medicine/cancer_center_type	:	/common/topic	
+/medicine/notable_person_with_medical_condition	:	/common/topic	/people/person	
+/medicine/transmission_route	:	/common/topic	
+/medicine/type_of_infectious_agent	:	/common/topic	
+/medicine/vector_of_disease	:	/common/topic	
+/medicine/infectious_disease	:	/common/topic	
+/medicine/icd_9_cm_classification	:	/common/topic	
+/medicine/diagnostic_sign	:	/common/topic	
+/medicine/diagnostic_test	:	/common/topic	
+/medicine/drug_formulation	:	/common/topic	
+/medicine/drug_formulation_category	:	/common/topic	
+/medicine/manufactured_drug_form	:	/common/topic	/business/consumer_product	
+/medicine/drug_dosage_form	:	/common/topic	
+/medicine/drug_manufacturer	:	/common/topic	
+/medicine/compound_drug	:	/common/topic	/medicine/drug	
+/medicine/drug_form_shape	:	/common/topic	
+/medicine/fda_otc_monograph_part	:	/common/topic	
+/medicine/drug_physiologic_effect	:	/common/topic	
+/medicine/drug_mechanism_of_action	:	/common/topic	
+/medicine/drug_ingredient	:	/common/topic	
+/medicine/drug_dosage_flavor	:	/common/topic	
+/meteorology/tropical_cyclone	:	/common/topic	
+/meteorology/tropical_cyclone_season	:	/common/topic	
+/meteorology/tropical_cyclone_category	:	/common/topic	
+/meteorology/cloud	:	/common/topic	
+/meteorology/cloud_classification	:	/common/topic	
+/meteorology/meteorological_service	:	/common/topic	
+/meteorology/beaufort_wind_force	:	/common/topic	
+/meteorology/cyclone_affected_area	:	/common/topic	/location/location	
+/meteorology/forecast_zone	:	/common/topic	/location/location	
+/military/armed_force	:	/common/topic	/organization/organization	
+/military/military_person	:	/people/person	/common/topic	
+/military/military_conflict	:	/common/topic	/time/event	
+/military/military_combatant	:	/common/topic	
+/military/casualties_type	:	/common/topic	
+/military/military_commander	:	/people/person	/common/topic	
+/military/military_resource	:	/common/topic	
+/military/military_theater	:	/common/topic	
+/military/rank	:	/common/topic	
+/military/military_post	:	/common/topic	
+/military/military_unit	:	/common/topic	/organization/organization	
+/military/military_unit_size	:	/common/topic	
+/military/military_unit_place_of_origin	:	/common/topic	
+/music/track	:	/common/topic	
+/music/album	:	/common/topic	
+/music/album_release_type	:	/common/topic	
+/music/artist	:	/common/topic	
+/music/genre	:	/common/topic	
+/music/group_member	:	/people/person	/common/topic	
+/music/instrument	:	/music/performance_role	/common/topic	
+/music/performance_role	:	/common/topic	
+/music/record_label	:	/common/topic	/business/business_operation	/organization/organization	
+/music/voice	:	/music/performance_role	/common/topic	
+/music/conductor	:	/common/topic	
+/music/guitar	:	/common/topic	
+/music/musical_instrument_company	:	/common/topic	/business/business_operation	/organization/organization	
+/music/drummer	:	/people/person	/common/topic	
+/music/musical_scale	:	/common/topic	
+/music/producer	:	/common/topic	
+/music/opera_singer	:	/people/person	/common/topic	
+/music/festival	:	/common/topic	
+/music/concert_tour	:	/common/topic	/time/event	
+/music/synthesizer	:	/common/topic	
+/music/bassist	:	/people/person	/common/topic	
+/music/soundtrack	:	/music/album	/common/topic	
+/music/composer	:	/people/person	/common/topic	
+/music/musical_chord	:	/common/topic	
+/music/orchestra	:	/common/topic	/music/musical_group	/music/artist	
+/music/guitarist	:	/people/person	/common/topic	
+/music/songwriter	:	/people/person	/common/topic	/music/composer	/music/lyricist	
+/music/release	:	/common/topic	
+/music/composition	:	/common/topic	
+/music/arrangement	:	/music/composition	/common/topic	
+/music/lyricist	:	/people/person	/common/topic	
+/music/musical_group	:	/common/topic	/music/artist	
+/music/multipart_release	:	/common/topic	/music/release	/media_common/creative_work	
+/music/release_component	:	/common/topic	/music/release	/media_common/creative_work	
+/music/engineer	:	/common/topic	
+/music/media_format	:	/common/topic	
+/music/concert	:	/common/topic	/time/event	
+/music/concert_performance_role	:	/common/topic	
+/music/tour_manager	:	/common/topic	/people/person	
+/music/conducted_ensemble	:	/common/topic	/music/musical_group	/music/artist	
+/music/music_video	:	/common/topic	
+/music/music_video_director	:	/common/topic	/people/person	
+/music/compositional_form	:	/common/topic	
+/music/performance_venue	:	/common/topic	/location/location	/architecture/venue	
+/music/concert_film	:	/common/topic	/film/film	
+/music/live_album	:	/common/topic	/music/album	
+/music/music_video_choreographer	:	/common/topic	/people/person	
+/music/music_video_performer	:	/common/topic	
+/music/music_video_character	:	/common/topic	
+/music/special_music_video_performance_type	:	/common/topic	
+/music/music_video_genre	:	/common/topic	/media_common/media_genre	
+/music/music_video_crewmember	:	/common/topic	/people/person	
+/music/music_video_job	:	/common/topic	
+/music/music_video_subject	:	/common/topic	
+/music/release_track	:	/common/topic	
+/olympics/olympic_athlete	:	/common/topic	/people/person	/sports/pro_athlete	
+/olympics/olympic_event_competition	:	/common/topic	/time/event	
+/olympics/olympic_event	:	/common/topic	
+/olympics/olympic_games	:	/common/topic	/time/event	
+/olympics/olympic_host_city	:	/common/topic	/location/citytown	/location/location	
+/olympics/olympic_mascot	:	/common/topic	/sports/mascot	
+/olympics/olympic_medal	:	/common/topic	
+/olympics/olympic_participating_country	:	/common/topic	
+/olympics/olympic_sport	:	/common/topic	
+/olympics/olympic_venue	:	/common/topic	/sports/sports_facility	/architecture/structure	/projects/project_focus	/location/location	
+/olympics/olympic_demonstration_competition	:	/common/topic	/time/event	
+/olympics/olympic_medal_demonstration	:	/common/topic	
+/olympics/olympic_bidding_city	:	/common/topic	
+/olympics/olympic_torchbearer	:	/common/topic	/people/person	
+/olympics/olympic_torch_relay_location	:	/common/topic	/location/location	
+/opera/opera_production	:	/common/topic	
+/opera/opera_company	:	/common/topic	/organization/organization	
+/opera/opera_producer	:	/people/person	/common/topic	
+/opera/opera_director	:	/people/person	/common/topic	
+/opera/opera_designer	:	/people/person	/common/topic	
+/opera/opera_production_staff	:	/people/person	/common/topic	
+/opera/opera_designer_role	:	/common/topic	
+/opera/opera_production_staff_role	:	/common/topic	
+/opera/opera_character	:	/common/topic	/fictional_universe/fictional_character	
+/opera/opera_house	:	/architecture/building	/architecture/structure	/common/topic	/location/location	/architecture/venue	
+/opera/opera_genre	:	/common/topic	
+/opera/opera_recording	:	/common/topic	
+/opera/opera	:	/common/topic	/music/composition	
+/opera/libretto	:	/common/topic	
+/opera/librettist	:	/common/topic	
+/business/company_type	:	/common/topic	
+/business/business_location	:	/common/topic	/business/employer	
+/business/board_member	:	/people/person	/common/topic	
+/organization/organization	:	/common/topic	
+/business/defunct_company	:	/common/topic	/organization/organization	
+/organization/organization_member	:	/common/topic	
+/business/company_termination_type	:	/common/topic	
+/organization/organization_founder	:	/common/topic	
+/organization/organization_scope	:	/common/topic	
+/organization/club	:	/organization/organization	/common/topic	
+/organization/club_interest	:	/common/topic	
+/organization/non_profit_organization	:	/organization/organization	/common/topic	/business/employer	
+/organization/non_profit_designation	:	/common/topic	
+/organization/organization_sector	:	/common/topic	
+/business/company_advisor	:	/common/topic	/people/person	
+/organization/organization_committee	:	/common/topic	
+/organization/organization_committee_title	:	/common/topic	
+/organization/organization_type	:	/common/topic	
+/organization/role	:	/common/topic	
+/organization/membership_organization	:	/common/topic	/organization/organization	
+/organization/organization_partnership	:	/common/topic	
+/organization/endowed_organization	:	/common/topic	/organization/organization	
+/organization/australian_organization	:	/common/topic	/organization/organization	
+/people/person	:	/common/topic	
+/people/cause_of_death	:	/common/topic	
+/people/gender	:	/common/topic	
+/people/deceased_person	:	/people/person	/common/topic	
+/people/profession	:	/common/topic	
+/people/family_name	:	/common/topic	
+/people/family	:	/common/topic	
+/people/marriage_union_type	:	/common/topic	
+/people/wedding_venue	:	/common/topic	
+/people/ethnicity	:	/common/topic	
+/people/canadian_aboriginal_group	:	/common/topic	/people/ethnicity	
+/people/american_indian_group	:	/common/topic	/people/ethnicity	
+/people/chinese_ethnic_group	:	/people/ethnicity	/common/topic	
+/people/place_of_interment	:	/common/topic	/location/location	
+/people/family_member	:	/common/topic	/people/person	
+/people/measured_person	:	/common/topic	/people/person	
+/people/measured_body_part	:	/common/topic	
+/people/professional_field	:	/common/topic	
+/people/appointer	:	/common/topic	
+/people/appointee	:	/common/topic	/people/person	
+/people/appointed_role	:	/common/topic	
+/people/appointment_nominee	:	/common/topic	/people/person	
+/book/serialized_work	:	/common/topic	
+/book/serial_installment	:	/book/published_work	/common/topic	
+/book/periodical	:	/common/topic	
+/book/magazine_issue	:	/book/publication	/common/topic	
+/book/periodical_format	:	/common/topic	
+/book/periodical_publisher	:	/common/topic	
+/book/newspaper	:	/book/periodical	/common/topic	
+/book/newspaper_owner	:	/common/topic	
+/book/magazine	:	/book/periodical	/common/topic	
+/book/newspaper_issue	:	/common/topic	
+/book/journal	:	/book/periodical	/business/employer	/common/topic	
+/book/newspaper_edition_type	:	/common/topic	
+/book/journal_article	:	/common/topic	/book/written_work	/book/scholarly_work	
+/book/magazine_genre	:	/common/topic	/media_common/media_genre	
+/book/periodical_subject	:	/common/topic	
+/book/editor_title	:	/common/topic	
+/book/periodical_editor	:	/common/topic	/people/person	
+/periodicals/newspaper_circulation_area	:	/common/topic	/location/location	
+/physics/particle	:	/common/topic	
+/physics/fundamental_interaction	:	/common/topic	
+/physics/particle_family	:	/common/topic	
+/physics/hadron	:	/common/topic	/physics/particle	
+/physics/subatomic_particle_generation	:	/common/topic	
+/physics/quark	:	/common/topic	/physics/particle	
+/pipeline/delete_task	:	/pipeline/task	
+/pipeline/merge_task	:	/pipeline/task	
+/pipeline/simple_merge_task	:	/pipeline/task	
+/projects/project_participant	:	/common/topic	
+/projects/project_role	:	/common/topic	
+/projects/project_focus	:	/common/topic	
+/projects/project	:	/common/topic	
+/protected_sites/natural_or_cultural_site_designation	:	/common/topic	
+/protected_sites/natural_or_cultural_preservation_agency	:	/common/topic	
+/protected_sites/site_listing_category	:	/common/topic	
+/protected_sites/iucn_category	:	/common/topic	
+/protected_sites/governing_body_of_protected_sites	:	/common/topic	/organization/organization	
+/protected_sites/park_system	:	/common/topic	
+/protected_sites/listed_site	:	/common/topic	
+/protected_sites/protected_site	:	/location/location	/common/topic	/location/dated_location	
+/radio/radio_program	:	/common/topic	/broadcast/content	
+/radio/radio_program_episode	:	/common/topic	
+/radio/radio_subject	:	/common/topic	
+/radio/radio_episode_segment	:	/common/topic	
+/rail/rail_gauge	:	/common/topic	
+/rail/railway	:	/common/topic	/location/location	
+/rail/rail_network	:	/common/topic	
+/rail/railway_type	:	/common/topic	
+/rail/railway_terminus	:	/common/topic	
+/rail/railway_operator	:	/common/topic	/business/employer	/business/business_operation	/organization/organization	
+/rail/locomotive	:	/common/topic	
+/rail/locomotive_class	:	/common/topic	
+/rail/locomotive_builder	:	/common/topic	/business/employer	/business/business_operation	/organization/organization	
+/rail/locomotive_owner	:	/common/topic	
+/rail/steam_locomotive_wheel_configuration	:	/common/topic	
+/rail/steam_locomotive_class	:	/common/topic	/rail/locomotive_class	
+/rail/steam_locomotive_fuel_type	:	/common/topic	
+/rail/diesel_locomotive_class	:	/common/topic	/rail/locomotive_class	
+/rail/electric_locomotive_class	:	/common/topic	/rail/locomotive_class	
+/rail/electric_system	:	/common/topic	
+/religion/religion	:	/common/topic	
+/religion/founding_figure	:	/common/topic	
+/religion/religious_text	:	/common/topic	
+/religion/belief	:	/common/topic	
+/religion/religious_practice	:	/common/topic	
+/religion/deity	:	/common/topic	
+/religion/religious_organization	:	/common/topic	
+/religion/religious_leader	:	/common/topic	/people/person	
+/religion/religious_leadership_role	:	/common/topic	
+/religion/congregation	:	/common/topic	
+/religion/adherents	:	/common/topic	
+/religion/place_of_worship	:	/common/topic	/architecture/building	/architecture/structure	/projects/project_focus	/location/location	
+/religion/type_of_place_of_worship	:	/common/topic	
+/religion/prayer	:	/common/topic	
+/religion/monastery	:	/common/topic	/architecture/building	/architecture/structure	/location/location	/projects/project_focus	
+/religion/religious_order	:	/common/topic	/religion/religious_organization	/organization/organization	
+/religion/religious_leadership_jurisdiction	:	/common/topic	/location/dated_location	/location/location	
+/religion/religious_jurisdiction_class	:	/common/topic	
+/religion/religious_leadership_title	:	/common/topic	
+/royalty/royal_line	:	/common/topic	/people/family	
+/royalty/monarch	:	/common/topic	/royalty/noble_person	/people/person	
+/royalty/kingdom	:	/common/topic	
+/royalty/coronation	:	/common/topic	/time/event	
+/royalty/noble_title	:	/common/topic	
+/royalty/noble_person	:	/common/topic	/people/person	
+/royalty/noble_rank	:	/common/topic	
+/royalty/system_of_nobility	:	/common/topic	
+/royalty/order_of_chivalry	:	/common/topic	
+/royalty/order_of_chivalry_category	:	/common/topic	
+/royalty/chivalric_order_founder	:	/common/topic	/people/person	
+/royalty/chivalric_order_member	:	/common/topic	/people/person	
+/royalty/chivalric_office	:	/common/topic	
+/royalty/chivalric_rank	:	/common/topic	
+/royalty/chivalric_order_officer	:	/common/topic	
+/royalty/chivalric_title	:	/common/topic	
+/skiing/ski_run	:	/common/topic	
+/skiing/ski_lift	:	/common/topic	
+/skiing/ski_area	:	/common/topic	/location/location	
+/skiing/ski_area_owner	:	/common/topic	
+/skiing/lift_type	:	/common/topic	
+/skiing/ski_lift_manufacturer	:	/common/topic	/business/business_operation	/organization/organization	
+/skiing/run_rating	:	/common/topic	
+/skiing/run_rating_symbol	:	/common/topic	
+/skiing/ski_lodge	:	/common/topic	/architecture/building	/architecture/structure	/projects/project_focus	/location/location	
+/soccer/football_world_cup	:	/soccer/football_award	/common/topic	/time/event	
+/soccer/football_player	:	/people/person	/common/topic	/sports/pro_athlete	
+/soccer/football_team	:	/sports/sports_team	/common/topic	
+/soccer/football_team_manager	:	/people/person	/common/topic	
+/soccer/fifa	:	/common/topic	
+/soccer/football_league	:	/common/topic	/time/recurring_event	
+/soccer/football_award	:	/common/topic	
+/soccer/football_position	:	/common/topic	
+/soccer/football_match	:	/common/topic	/time/event	
+/soccer/football_disciplinary_punishment	:	/common/topic	
+/soccer/football_pitch	:	/common/topic	/sports/sports_facility	/projects/project_focus	/architecture/structure	/location/location	
+/soccer/football_referee	:	/common/topic	/people/person	
+/soccer/football_league_season	:	/common/topic	/time/event	/sports/sports_league_season	
+/soccer/football_league_system	:	/common/topic	
+/spaceflight/satellite	:	/common/topic	/spaceflight/spacecraft	/base/satelites/earth_orbiting_satellite	
+/spaceflight/satellite_manufacturer	:	/common/topic	/business/business_operation	/organization/organization	
+/spaceflight/satellite_type	:	/common/topic	
+/spaceflight/satellite_orbit_type	:	/common/topic	
+/spaceflight/astronaut	:	/people/person	/common/topic	
+/spaceflight/space_mission	:	/common/topic	/time/event	/projects/project_focus	
+/spaceflight/rocket	:	/common/topic	
+/spaceflight/rocket_manufacturer	:	/common/topic	
+/spaceflight/rocket_function	:	/common/topic	
+/spaceflight/rocket_launch_site	:	/common/topic	/location/location	
+/spaceflight/rocket_engine	:	/common/topic	
+/spaceflight/rocket_fuel	:	/common/topic	
+/spaceflight/rocket_status	:	/common/topic	
+/spaceflight/space_agency	:	/common/topic	/organization/organization	
+/spaceflight/launch_payload	:	/common/topic	
+/spaceflight/spacecraft	:	/common/topic	
+/spaceflight/space_program	:	/common/topic	
+/spaceflight/space_program_sponsor	:	/common/topic	
+/spaceflight/rocket_engine_designer	:	/common/topic	
+/spaceflight/rocket_engine_manufacturer	:	/common/topic	
+/spaceflight/bipropellant_rocket_engine	:	/common/topic	/spaceflight/rocket_engine	
+/spaceflight/rocket_engine_oxidizer	:	/common/topic	
+/spaceflight/rocket_engine_fuel	:	/common/topic	
+/spaceflight/rocket_engine_cycle	:	/common/topic	
+/spaceflight/rocket_engine_status	:	/common/topic	
+/spaceflight/mission_destination	:	/common/topic	
+/sports/golfer	:	/common/topic	/people/person	/sports/pro_athlete	
+/sports/sports_team	:	/common/topic	
+/sports/sports_facility	:	/architecture/structure	/common/topic	/projects/project_focus	/location/location	/architecture/venue	
+/sports/sports_team_owner	:	/common/topic	
+/sports/sport	:	/common/topic	
+/sports/sports_league	:	/common/topic	/organization/organization	/business/employer	
+/sports/sports_championship_event	:	/common/topic	/time/event	
+/sports/sports_league_season	:	/common/topic	/time/event	
+/sports/sports_award_winner	:	/common/topic	
+/sports/sports_award_type	:	/common/topic	
+/sports/sports_championship	:	/common/topic	
+/sports/handedness	:	/common/topic	
+/sports/pro_athlete	:	/people/person	/common/topic	/people/measured_person	
+/sports/sports_league_draft	:	/common/topic	
+/sports/mascot	:	/common/topic	
+/sports/australian_rules_footballer	:	/common/topic	/people/person	/sports/pro_athlete	/people/measured_person	
+/sports/cyclist	:	/common/topic	/people/person	/sports/pro_athlete	
+/sports/sports_equipment	:	/common/topic	
+/sports/school_sports_team	:	/sports/sports_team	/common/topic	
+/sports/professional_sports_team	:	/sports/sports_team	/common/topic	
+/sports/defunct_sports_team	:	/common/topic	
+/sports/sports_team_location	:	/common/topic	/location/location	
+/sports/golf_facility	:	/common/topic	/location/location	
+/sports/golf_course_designer	:	/common/topic	/people/person	
+/sports/golf_course	:	/common/topic	
+/sports/golf_club_access	:	/common/topic	
+/sports/sports_official	:	/common/topic	/people/person	
+/sports/tournament_event_competitor	:	/common/topic	/people/person	/sports/pro_athlete	
+/sports/tournament_event_competition	:	/common/topic	/time/event	
+/sports/sport_medal	:	/common/topic	
+/sports/tournament_team	:	/common/topic	/sports/sports_team	
+/sports/sport_country	:	/common/topic	
+/sports/tournament_event	:	/common/topic	
+/sports/multi_event_tournament	:	/common/topic	/time/event	
+/sports/drafted_athlete	:	/common/topic	/people/person	/sports/pro_athlete	/people/measured_person	
+/sports/fight_song	:	/common/topic	/music/composition	
+/symbols/flag	:	/common/topic	
+/symbols/name_source	:	/common/topic	
+/symbols/namesake	:	/common/topic	
+/symbols/flag_referent	:	/common/topic	
+/symbols/coat_of_arms	:	/common/topic	
+/symbols/coat_of_arms_bearer	:	/common/topic	
+/symbols/heraldic_charge	:	/common/topic	
+/symbols/heraldic_supporter	:	/common/topic	
+/symbols/heraldic_ordinaire	:	/common/topic	
+/symbols/heraldic_variation_of_the_field	:	/common/topic	
+/symbols/heraldic_brisure	:	/common/topic	
+/symbols/heraldic_helm	:	/common/topic	
+/symbols/heraldic_crest	:	/common/topic	
+/symbols/heraldry_granting_body	:	/common/topic	
+/symbols/heraldic_compartment	:	/common/topic	
+/symbols/heraldic_coronet	:	/common/topic	
+/symbols/heraldic_tincture	:	/common/topic	
+/tennis/tennis_player	:	/common/topic	/people/person	/sports/pro_athlete	
+/tennis/tennis_match_type	:	/common/topic	
+/tennis/tennis_tournament_champion	:	/tennis/tennis_player	/people/person	/common/topic	
+/tennis/tennis_tournament	:	/common/topic	
+/tennis/tennis_grip_style	:	/common/topic	
+/theater/play	:	/common/topic	/book/written_work	
+/theater/theatrical_composer	:	/people/person	/common/topic	
+/theater/theatrical_lyricist	:	/people/person	/common/topic	
+/theater/theatrical_orchestrator	:	/people/person	/common/topic	
+/theater/theater_production	:	/common/topic	
+/theater/theater_company	:	/common/topic	/organization/organization	
+/theater/theater_producer	:	/people/person	/common/topic	
+/theater/theater_director	:	/people/person	/common/topic	
+/theater/theater_choreographer	:	/people/person	/common/topic	
+/theater/musical_director	:	/people/person	/common/topic	
+/theater/theater_designer	:	/people/person	/common/topic	
+/theater/theater_production_staff	:	/people/person	/common/topic	
+/theater/theater_designer_role	:	/common/topic	
+/theater/theater_production_staff_role	:	/common/topic	
+/theater/theater_actor	:	/people/person	/common/topic	
+/theater/theater_character	:	/common/topic	/fictional_universe/fictional_character	
+/theater/theater	:	/common/topic	/architecture/venue	
+/theater/theater_genre	:	/common/topic	
+/theater/musical_soundtrack	:	/common/topic	/music/album	
+/time/geologic_time_period	:	/common/topic	
+/time/month	:	/common/topic	
+/time/day_of_year	:	/common/topic	
+/time/holiday	:	/common/topic	
+/time/holiday_category	:	/common/topic	
+/time/calendar	:	/common/topic	
+/time/holiday_period	:	/common/topic	
+/time/day_of_week	:	/common/topic	
+/time/time_zone	:	/common/topic	
+/time/commemorative_event	:	/common/topic	/time/event	
+/transportation/road	:	/common/topic	/location/location	
+/transportation/road_orientation	:	/common/topic	
+/transportation/highway_system	:	/common/topic	
+/transportation/bridge	:	/architecture/structure	/common/topic	/location/location	
+/transportation/bridge_type	:	/common/topic	
+/metropolitan_transit/transit_agency	:	/common/topic	/organization/organization	
+/metropolitan_transit/transit_system	:	/common/topic	
+/metropolitan_transit/transit_line	:	/common/topic	
+/metropolitan_transit/transit_stop	:	/location/location	/common/topic	
+/metropolitan_transit/transit_vehicle	:	/common/topic	
+/metropolitan_transit/transit_service_type	:	/common/topic	
+/travel/travel_destination	:	/common/topic	/location/location	
+/travel/tourist_attraction	:	/common/topic	/location/location	
+/travel/accommodation	:	/common/topic	/location/location	
+/travel/tour_operator	:	/common/topic	
+/travel/accommodation_type	:	/common/topic	
+/travel/accommodation_feature	:	/common/topic	
+/travel/accommodation_price_range	:	/common/topic	
+/travel/guidebook	:	/common/topic	/book/book	/book/written_work	
+/travel/transportation_mode	:	/common/topic	
+/travel/transport_operator	:	/common/topic	
+/travel/transport_terminus	:	/common/topic	
+/travel/guidebook_series	:	/common/topic	
+/travel/hotel	:	/common/topic	/architecture/building	/architecture/structure	/travel/accommodation	/location/location	/projects/project_focus	
+/travel/hotel_operator	:	/common/topic	/business/employer	/business/business_operation	/organization/organization	
+/travel/hotel_brand	:	/common/topic	
+/travel/hotel_grading_authority	:	/common/topic	
+/travel/hotel_brand_owner	:	/common/topic	
+/tv/tv_program	:	/common/topic	
+/tv/tv_series_season	:	/common/topic	
+/tv/tv_program_creator	:	/common/topic	
+/tv/tv_genre	:	/common/topic	/media_common/media_genre	
+/tv/tv_series_episode	:	/common/topic	
+/tv/tv_character	:	/fictional_universe/fictional_character	/common/topic	
+/tv/tv_actor	:	/people/person	/common/topic	
+/tv/tv_writer	:	/people/person	/common/topic	
+/tv/tv_director	:	/people/person	/common/topic	
+/tv/tv_producer	:	/common/topic	
+/tv/tv_network	:	/common/topic	
+/tv/non_character_role	:	/common/topic	
+/tv/the_colbert_report_episode	:	/common/topic	/tv/tv_series_episode	
+/tv/tv_personality	:	/common/topic	
+/tv/tv_producer_type	:	/common/topic	
+/tv/special_tv_performance_type	:	/common/topic	
+/tv/tv_crewmember	:	/people/person	/common/topic	
+/tv/tv_crew_role	:	/common/topic	
+/tv/tv_rating	:	/common/topic	
+/tv/tv_rating_system	:	/common/topic	
+/tv/tv_theme_song	:	/common/topic	/music/composition	
+/tv/multipart_tv_episode	:	/common/topic	
+/tv/tv_program_guest	:	/common/topic	
+/tv/tv_episode_segment	:	/common/topic	
+/tv/video_host	:	/common/topic	
+/tv/video_type	:	/common/topic	
+/tv/sequence_of_tv_episode_segments	:	/common/topic	
+/tv/tv_location	:	/common/topic	/location/location	
+/tv/tv_subject	:	/common/topic	
+/tv/tv_soundtrack	:	/common/topic	/music/album	
+/tv/tv_song	:	/common/topic	/music/composition	
+/tv/tv_song_performer	:	/common/topic	
+/type/extension	:	/type/property	
+/visual_art/visual_art_medium	:	/common/topic	
+/visual_art/visual_art_form	:	/common/topic	
+/visual_art/art_owner	:	/common/topic	
+/visual_art/art_period_movement	:	/common/topic	
+/visual_art/color	:	/common/topic	
+/visual_art/visual_artist	:	/people/person	/common/topic	
+/visual_art/artwork	:	/common/topic	
+/visual_art/visual_art_genre	:	/common/topic	
+/visual_art/art_subject	:	/common/topic	
+/visual_art/art_acquisition_method	:	/common/topic	
+/visual_art/art_series	:	/common/topic	
+/visual_art/visual_art_support	:	/common/topic	
+/zoos/zoo	:	/common/topic	/location/location	/travel/tourist_attraction	
+/zoos/zoo_exhibit	:	/common/topic	
+/zoos/zoo_animal	:	/common/topic	/biology/organism	
+/zoos/zoo_category	:	/common/topic	
